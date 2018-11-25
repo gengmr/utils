@@ -8,7 +8,9 @@
 
 ### 2. keras：未完成
 
-### 3. git：未完成
+### 3. git：
+
++ git_guide.md
 
 ### 4. linux：未完成
 
